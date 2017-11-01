@@ -1,6 +1,6 @@
 {
   "name": "git-commit-message-demo",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "git-commit-message-demo",
   "main": "index.js",
   "scripts": {
