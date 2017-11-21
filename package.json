@@ -1,11 +1,11 @@
 {
   "name": "git-commit-message-demo",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "git-commit-message-demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version && git push --follow-tags origin master"
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
